@@ -4,7 +4,7 @@
 Moshe Binieli & Eran Shmuel
 
 ## How to view the results
-open the relevant notebook in the regular environment or the noisy environment or read the report 
+Open the relevant notebook in the regular environment or the noisy environment or read the report 
 
 ## How to run the code
 In order to run the code, you need to follow some simple steps.
