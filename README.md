@@ -3,6 +3,9 @@
 ## Names of Submitters
 Moshe Binieli & Eran Shmuel
 
+## How to view the results
+open the relevent notebook in the regular environment or the noisy environment or read the report 
+
 ## How to run the code
 In order to run the code, you need to follow some simple steps.
 1. Upload the relevant notebook Google Colab.
